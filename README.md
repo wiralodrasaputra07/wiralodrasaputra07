@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hai Semuanya 👋
 
 Perkenalkan nama saya **Wira Sukma Saputra**
 
