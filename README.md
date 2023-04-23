@@ -6,7 +6,12 @@ Saya seorang **Progammer Front end Develover** di [Dicoding](https://www.dicodin
 Saya juga memiliki website pribadi, silahkan cek disini [https://wira07.github.io/]
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/Wira07)ku ya
 
-
+<p align="left">
+<a href="https://github.com/Wira07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
